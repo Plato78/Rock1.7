@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #include "SFML/Graphics.hpp"
 #include "settings.h"
 class Weed {
